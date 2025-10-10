@@ -2,12 +2,6 @@
 
 **FaunaFinder** is a web application that allows users to easily identify various animal and bird species by uploading photos. Utilizing advanced web scraping techniques and TensorFlow models, FaunaFinder aims to provide accurate species identification with an intuitive user interface for both mobile and desktop users.
 
-## Table of Contents
-
-- [Features](#features)
-- [User Interface](#user-interface)
-- [Contributing](#contributing)
-
 ## Features
 
 - Upload photos of animals or birds for identification.
